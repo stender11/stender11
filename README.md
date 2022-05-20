@@ -30,8 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stender11&show_icons=true&locale=en" alt="stender11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stender11&theme=highcontrast" alt="stender11" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stender11&theme=highcontrast" alt="stender11" /></p>
 
-![large](https://user-images.githubusercontent.com/48976808/169443789-632e343b-b67d-4c78-9d20-eb936450192c.svg)
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stender11" alt="stender11" /></a> </p>
+<p align="center"> ![large](https://user-images.githubusercontent.com/48976808/169443789-632e343b-b67d-4c78-9d20-eb936450192c.svg) </p>
