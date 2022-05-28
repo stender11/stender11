@@ -35,4 +35,4 @@
 
 <p align="center"><img src="https://www.codewars.com/users/blind_devotion/badges/large" alt="codewars badge"</p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+## ![Jokes Card](https://readme-jokes.vercel.app/api) ##
