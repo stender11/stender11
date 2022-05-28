@@ -34,3 +34,5 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=stender11&show_icons=true&theme=synthwave&title_color=000000&text_color=000000&bg_color=6c9cd0&locale=en&layout=compact" alt="top languages used" /></p>
 
 <p align="center"><img src="https://www.codewars.com/users/blind_devotion/badges/large" alt="codewars badge"</p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
