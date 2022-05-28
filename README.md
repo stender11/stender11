@@ -29,8 +29,6 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stender11&theme=highcontrast" alt="github contribution streak badge" /></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=stender11&show_icons=true&locale=en" alt="github stats" /></p>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=stender11&theme=blue-green" alt="github stats" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=stender11&show_icons=true&theme=synthwave&title_color=000000&text_color=000000&bg_color=6c9cd0&locale=en&layout=compact" alt="top languages used" /></p>
