@@ -3,7 +3,7 @@
 
 <p align="center"><a href="https://twitter.com/astephens1134" target="blank"><img src="https://img.shields.io/twitter/follow/astephens1134?logo=twitter&style=for-the-badge" alt="astephens1134"></a> </p>
 
-<img src="https://komarev.com/ghpvc/?username=stender11&label=Profile%20views&color=0e75b6&style=flat" alt="stender11">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=stender11&label=Profile%20views&color=0e75b6&style=flat" alt="stender11"> </p>
 
 - 🔭 I’m currently working on [100 hours project](PROJECT LINK)
 
