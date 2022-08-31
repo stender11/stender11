@@ -9,7 +9,7 @@
 
 - 🧠 Growing and improving by: learning more EJS and researching other templating languages.
 
-- 💻 All of my projects are available at: adam-stephens.netlify.app
+- 💻 Most of my completed projects are available on my website: adam-stephens.netlify.app
 
 - 💬 I love to talk about: 💾software development, 🧩coding problems, 🪐space exploration, 🎮gaming🎲, or anything at all really.
 
