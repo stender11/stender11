@@ -5,17 +5,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stender11&label=Profile%20views&color=0e75b6&style=flat" alt="stender11"> </p>
 
-- 🔭 I’m currently working on [100 hours project](PROJECT LINK)
+- 📁 Current project is: my 🌍Natural Wonders🌍 full-stack app.
 
-- 🌱 I’m currently learning **MongoDB, Express.js, React, Node.js**
+- 🧠 Growing and improving by: learning more EJS and researching other templating languages.
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO LINK](PORTFOLIO LINK)
+- 💻 All of my projects are available at: adam-stephens.netlify.app
 
-- 💬 Ask me about **tech, codewars, JavaScript**
+- 💬 I love to talk about: programming languages, 🧩coding problems, 🪐space exploration, 🎮gaming🎲, or anything 🧪science and 💾tech related.
 
-- 📫 How to reach me **astephens1134@gmail.com**
+- 📧 Reach out to me at: **astephens1134@gmail.com**
 
-- 📄 Know about my experiences [RESUME LINK](RESUME LINK)
+- 🧾 Direct link to my resume: adam-stephens.netlify.app/resume
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
