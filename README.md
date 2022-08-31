@@ -11,7 +11,7 @@
 
 - 💻 All of my projects are available at: adam-stephens.netlify.app
 
-- 💬 I love to talk about: programming languages, 🧩coding problems, 🪐space exploration, 🎮gaming🎲, or anything 🧪science and 💾tech related.
+- 💬 I love to talk about: 💾software development, 🧩coding problems, 🪐space exploration, 🎮gaming🎲, or anything at all really.
 
 - 📧 Reach out to me at: **astephens1134@gmail.com**
 
