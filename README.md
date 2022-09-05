@@ -9,13 +9,13 @@
 
 - 🧠 Growing and improving by: learning more EJS and researching other templating languages.
 
-- 💻 Most of my completed projects are available on my website: **adamwstephens.netlify.app**
+- 💻 Most of my completed projects are available on my website: **https://adam-w-stephens.netlify.app/**
 
 - 💬 I love to talk about: 💾software development, 🧩coding problems, 🪐space exploration, 🎮gaming🎲, or anything at all really.
 
 - 📧 Reach out to me at: **astephens1134@gmail.com**
 
-- 🧾 Direct link to my resume: **adam-w-stephens.netlify.app/resume**
+- 🧾 Direct link to my resume: **https://adam-w-stephens.netlify.app/images/AdamWStephens-Resume2022.pdf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
