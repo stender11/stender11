@@ -15,7 +15,7 @@
 
 - 📧 Reach out to me at: **astephens1134@gmail.com**
 
-- 🧾 Direct link to my resume: **https://adam-w-stephens.netlify.app/images/AdamWStephens-Resume2022.pdf**
+- 🧾 Direct link to my <a href="https://adam-w-stephens.netlify.app/images/AdamWStephens-Resume2022.pdf" target="_blank">resume</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
