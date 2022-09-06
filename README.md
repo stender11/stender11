@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/D9bsKxn/adamlogo.png" alt="adamlogo" border="1"></p>
+<p align="center"><img src="https://i.ibb.co/D9bsKxn/adamlogo.png" alt="adamlogo"></p>
 <h3 align="center">👋Hi, I'm Adam, a forward-thinking full stack developer from Indianapolis, Indiana👋</h3>
 
 <p align="center"><a href="https://twitter.com/astephens1134" target="blank"><img src="https://img.shields.io/twitter/follow/astephens1134?logo=twitter&style=for-the-badge" alt="astephens1134"></a> </p>
