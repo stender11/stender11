@@ -11,7 +11,7 @@
 
 - 💻 Most of my completed projects are available on my website: **https://adam-w-stephens.netlify.app/**
 
-- 💬 I love to talk about: 💾software development, 🧩coding problems, 🪐space exploration, 🎮gaming🎲, or anything at all really.
+- 💬 I love to talk about: 💾software development, 🧩coding problems, 🪐space exploration, 🎮gaming🎲, 🎶music, or anything at all really.
 
 - 📧 Reach out to me at: **astephens1134@gmail.com**
 
