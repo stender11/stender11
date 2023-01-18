@@ -7,7 +7,7 @@
 
 - 📁 Current project is: my 🌍Natural Wonders🌍 full-stack app.
 
-- 🧠 Growing and improving by: learning more EJS and researching other templating languages.
+- 🧠 Growing and improving by: learning more data structures and algorithms.
 
 - 💻 Most of my completed projects are available on my website: **https://adam-w-stephens.netlify.app/**
 
